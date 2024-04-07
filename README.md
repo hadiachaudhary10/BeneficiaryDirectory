@@ -1,5 +1,5 @@
 
-# 🎯 Beneficiaries List
+# 🎯 Beneficiaries Directory
 The aim of this project is to practice UIKit development with a focus on JSON parsing, view navigation, layout constraints, and the Model-View-ViewModel (MVVM) architecture.
 
 ## ✅ Screenshots
